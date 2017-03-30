@@ -41,14 +41,14 @@ npm run dev
 ### Important points in webpack configurations
 The entry point defined in `webpack.config.js` is the file first accessed by webpack and is the root for getting all required files. 
 From here, webpack follows all imports and bundles everything together.
-```
+```javascript
 entry: {
     main: './app/index.js'
 }
 ```
 
 `devServer` is the part pertaining to `webpack-dev-server`. This part is required for this development server to function. 
-```
+```javascript
 devServer: {
     contentBase: 'public',
     inline: true,
@@ -61,7 +61,7 @@ Likewise to run your React application using `webpack-dev-server`, use `set DEV=
 The above can be achieved by running `npm run dev`, from the commandline. 
 
 This configuration bit, defines the loader used to handle the react components. Presets are necessary for `babel-loader` to understand react and jsx. **Stage-3** allows for using the latest ES2015 features. 
-```
+```javascript
 {
     test: /\.(js|jsx)$/,
     exclude: /node_modules/,
@@ -72,7 +72,7 @@ This configuration bit, defines the loader used to handle the react components. 
 }
 ```
 `babel-loader` is installed using npm and is defined in *package.json*.
-```
+```json
 "devDependencies": {
     ...
     "babel-loader": "^6.0.0",
