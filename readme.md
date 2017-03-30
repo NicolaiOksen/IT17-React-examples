@@ -1,14 +1,14 @@
-# Table of contents
+# IT17 - React & Webpack Examples
+In this repository, you'll find three react applications. Each of the applications consists of the same elements. 
+The difference lies in how each project was created and used.
+
+### Table of contents
 - [IT17 - React & Webpack Examples](#it17---react--webpack-examples)
   * [create-react-app-project](#create-react-app-project)
   * [create-react-app-project-ejected](#create-react-app-project-ejected)
   * [manual-react-app-project](#manual-react-app-project)
     + [Important points in webpack configurations](#important-points-in-webpack-configurations)
   * [Getting `create-react-app`](#getting-create-react-app)
-
-# IT17 - React & Webpack Examples
-In this repository, you'll find three react applications. Each of the applications consists of the same elements. 
-The difference lies in how each project was created and used.
 
 ## create-react-app-project
 This project is created with the `create-react-app` command, nothing else is done afterwards. `create-react-app` is a predifined command from `npm`, which can handle setting up a full-blown react application in a few minutes. 
