@@ -15,13 +15,28 @@ This project is created with the `create-react-app` command, nothing else is don
 
 All configuration is taken care of and the `webpack` configuration is hidden from view.
 
+To run this project:
+```
+npm start
+```
+
 ## create-react-app-project-ejected
 This project is likewise created with the `create-react-app` command, but this project was **ejected** and all underlying configuration and setup is revealed. 
 
 To eject a `create-react-app` project, run `npm run eject`. 
 
+To run this project:
+```
+npm start
+```
+
 ## manual-react-app-project
 This project is manually configured with webpack and package.json it is setup with webpack 1.12.x and *webpack-dev-server*. 
+
+To run this project:
+```
+npm run dev
+```
 
 ### Important points in webpack configurations
 The entry point defined in `webpack.config.js` is the file first accessed by webpack and is the root for getting all required files. 
