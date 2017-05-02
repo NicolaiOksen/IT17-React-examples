@@ -1,0 +1,9 @@
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\bin\Debug\netcoreapp1.1\DotNetCoreAndReactExample.deps.json
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\bin\Debug\netcoreapp1.1\DotNetCoreAndReactExample.runtimeconfig.json
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\bin\Debug\netcoreapp1.1\DotNetCoreAndReactExample.runtimeconfig.dev.json
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\bin\Debug\netcoreapp1.1\DotNetCoreAndReactExample.dll
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\bin\Debug\netcoreapp1.1\DotNetCoreAndReactExample.pdb
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\obj\Debug\netcoreapp1.1\DotNetCoreAndReactExample.csprojResolveAssemblyReference.cache
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\obj\Debug\netcoreapp1.1\DotNetCoreAndReactExample.AssemblyInfo.cs
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\obj\Debug\netcoreapp1.1\DotNetCoreAndReactExample.dll
+S:\Solutions\IT17\DotNetCoreAndReactExample\DotNetCoreAndReactExample\obj\Debug\netcoreapp1.1\DotNetCoreAndReactExample.pdb
